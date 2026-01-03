@@ -12,7 +12,7 @@ CREATE TABLE SalesOrders (
     Category VARCHAR(50)
 );
 
--- 3. Insert Dummy Data (The "Noob-friendly" way)
+-- 3. Insert Dummy Data
 INSERT INTO SalesOrders VALUES 
 (1, 101, '2025-01-10', 500.00, 'Electronics'),
 (2, 102, '2025-01-15', 150.00, 'Home'),
@@ -20,4 +20,5 @@ INSERT INTO SalesOrders VALUES
 (4, 103, '2025-02-20', 200.00, 'Fashion'),
 (5, 104, '2025-03-05', 1200.00, 'Electronics'),
 (6, 102, '2025-03-12', 300.00, 'Home'),
+
 (7, 101, '2025-03-15', 50.00, 'Electronics');

@@ -1,1 +1,2 @@
-# SQL-Sales-Analysis
+E-commerce Sales Growth Analysis
+Goal: Analyze revenue trends to identify growth patterns. Skills Used: SQL Server, Common Table Expressions (CTEs), Window Functions (LAG). Insight Found: Revenue grew significantly between February and March due to high-ticket Electronics sales.
